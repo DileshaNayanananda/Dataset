@@ -1,0 +1,528 @@
+Subject,Grade,Marks,"Time Spent 
+(Q1)
+(Seconds)","Time Spent
+ (Q2)
+(Seconds)","Time Spent 
+(Q3)
+(Seconds)","Time Spent
+ (Q4)
+(Seconds)","Time Spent
+ (Q5)
+(Seconds)",Knowledge Level
+Maths,4,85,70,65,80,75,60,Advanced
+English,3,70,90,85,100,80,95,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,65,95,80,100,85,90,Intermediate
+English,5,95,80,70,85,75,90,Advanced
+Environmental Science,1,40,160,140,175,180,150,Beginner
+Maths,4,82,85,90,80,75,70,Intermediate
+English,3,68,75,80,70,90,80,Intermediate
+Environmental Science,2,55,110,100,120,105,130,Intermediate
+Maths,3,70,70,75,65,80,75,Intermediate
+English,5,98,75,80,70,60,65,Advanced
+Environmental Science,1,35,140,150,135,130,160,Beginner
+Maths,4,80,80,75,90,85,100,Intermediate
+English,3,68,100,110,95,120,105,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,95,80,100,85,90,Intermediate
+English,5,96,70,80,60,75,85,Advanced
+Environmental Science,1,38,150,160,145,140,170,Beginner
+Maths,4,85,90,80,75,70,65,Advanced
+English,3,72,75,80,70,90,85,Intermediate
+Maths,4,83,80,70,90,85,75,Intermediate
+English,3,68,100,80,85,70,90,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,92,80,70,75,85,80,Advanced
+Environmental Science,1,45,140,160,135,150,130,Beginner
+Maths,4,78,85,90,80,75,70,Intermediate
+English,3,70,75,80,85,90,80,Intermediate
+Environmental Science,2,50,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,94,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,80,70,75,85,80,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,70,100,85,90,80,85,Intermediate
+Environmental Science,2,55,120,110,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,4,83,75,85,70,80,75,Intermediate
+English,3,70,85,90,100,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,4,83,75,85,70,80,75,Intermediate
+English,3,70,85,90,100,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+Maths,4,83,75,85,70,80,75,Intermediate
+English,3,70,85,90,100,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,83,75,85,70,80,75,Intermediate
+English,3,70,85,90,100,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,4,83,75,85,70,80,75,Intermediate
+English,3,70,85,90,100,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,4,83,75,85,70,80,75,Intermediate
+English,3,70,85,90,100,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Maths,4,83,75,85,70,80,75,Intermediate
+English,3,70,85,90,100,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,4,83,75,85,70,80,75,Intermediate
+English,3,70,85,90,100,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Maths,4,83,75,85,70,80,75,Intermediate
+English,3,70,85,90,100,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
+Maths,4,85,80,70,90,85,75,Advanced
+English,3,72,100,80,85,70,90,Intermediate
+Environmental Science,2,50,120,110,130,125,135,Beginner
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,35,150,140,130,120,140,Beginner
+Maths,4,82,85,75,80,70,75,Intermediate
+English,3,68,100,85,90,80,85,Intermediate
+Environmental Science,2,55,110,120,130,120,140,Intermediate
+Maths,3,68,80,75,90,85,100,Intermediate
+English,5,95,75,80,70,65,75,Advanced
+Environmental Science,1,43,160,150,140,130,150,Beginner
+Maths,4,80,85,90,80,75,70,Intermediate
+English,3,68,75,80,85,90,80,Intermediate
+Environmental Science,2,52,100,110,120,105,130,Intermediate
+Maths,3,70,70,75,80,85,90,Intermediate
+English,5,96,75,80,70,65,75,Advanced
+Environmental Science,1,40,150,140,130,120,140,Beginner
+Maths,4,80,80,85,90,95,100,Intermediate
+English,3,68,100,90,95,100,85,Intermediate
+Environmental Science,2,55,110,120,100,130,125,Intermediate
+Maths,3,70,80,75,90,85,100,Intermediate
+English,5,97,75,80,70,65,75,Advanced
+Environmental Science,1,38,140,160,135,150,130,Beginner
